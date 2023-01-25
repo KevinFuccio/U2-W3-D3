@@ -1,0 +1,60 @@
+[
+{
+    "title": "...And Justice for All",
+    "artist": "Metallica",
+    "year": 1988,
+    "genre": ["trash metal", "heavy metal", "progressive metal"],
+    "totalTracks": 9,
+    "duration": "65.28",
+    "tracks": [
+      "Blackened",
+      "...And Justice for All",
+      "Eye of the Beholder",
+      "One",
+      "The Shortest Straw",
+      "Harvester of Sorrow",
+      "The Frayed Ends of Sanity",
+      "To Live Is to Die",
+      "Dyers Eve"
+    ]
+  },
+  {
+    "title": "Images and Words",
+    "artist": "Dream Theater",
+    "year": 1992,
+    "genre": "progressive metal",
+    "totalTracks": 8,
+    "duration": "56.55",
+    "tracks": [
+      "Pull Me Under",
+      "Another Day ",
+      "Take the Time",
+      "Surrounded",
+      "Metropolis Part I: The Miracle and the Sleeper",
+      "Under a Glass Moon",
+      "Wait for Sleep",
+      "Learning to Live"
+    ]
+  },
+  {
+    "title": "Awake",
+    "artist": "Dream Theater",
+    "year": 1994,
+    "genre": "progressive metal",
+    "totalTracks": 11,
+    "duration": "75.01",
+    "tracks": [
+      "6:00",
+      "Caught in a Web",
+      "Innocence Faded",
+      "Erotomania",
+      "Voices",
+      "The Silent Man",
+      "The Mirror",
+      "Lie",
+      "Lifting Shadows Off a Dream",
+      "Scarred",
+      "Space-Dye Vest"
+    ]
+  }
+]
